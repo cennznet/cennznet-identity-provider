@@ -1,7 +1,6 @@
 {
   "name": "CennznetIdentityProvider",
   "version": "0.0.1",
-  "private": true,
   "scripts": {
     "start": "NODE_OPTIONS=--max_old_space_size=8192 react-native start",
     "test": "rm -rf coverage && jest --coverage",
