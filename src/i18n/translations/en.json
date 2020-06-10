@@ -1,0 +1,86 @@
+{
+  "jumpToImportAccountPage": "Jump to import account page",
+  "btnCommon": {
+    "confirm": "Confirm",
+    "decline": "Decline",
+    "close": "Close",
+    "next": "Next",
+    "ok": "OK",
+    "cancel": "Cancel",
+    "loading": "Loading"
+  },
+  "phraseTextCommon": {
+    "inputBoxLabel": "Seed Phrase",
+    "inputBoxHint": "Your seed phrase should be at least 12 words",
+    "title": "Enter your seed phrase",
+    "subtitle": "Enter your seed phrase in the correct order to create your account."
+  },
+  "accountImport": {
+    "buttonText": "IMPORT",
+    "inputBoxErrorHint": "Invalid seed phrase",
+    "phrase": "",
+    "buttonTextLoading": "IMPORTING",
+    "inputBoxPlaceHolder": "Paste or type your seed phrase here..."
+  },
+  "confirmSeedPhrase": {
+    "inputBoxErrorHint": "Seed phrase not matching. Please try again.",
+    "inputBoxPlaceHolder": "Enter seed phrase"
+  },
+  "txConfirmation": {
+    "title": "Authorise transaction",
+    "fee": "Fee",
+    "amount": "Amount",
+    "to": "To",
+    "token": "Token"
+  },
+  "qrScanner": {
+    "title": "QR Scanner",
+    "androidNotAuthorizedText": "Camera not authorized",
+    "iosNotAuthorizedText": "To use this feature you need to give permission for this app to use the camera. To grant access, follow the steps below.",
+    "guideStep1": "1. Open Settings.",
+    "guideStep2": "2. Tap Privacy.",
+    "guideStep3_1": "3. Tap ",
+    "guideStep3_2": "Camera",
+    "guideStep4_1": "4. Tap the identity app to ",
+    "guideStep4_2": "allow/deny camera",
+    "guideStep4_3": " access."
+  },
+  "txSending": {
+    "success": "Transaction successful",
+    "fail": "Oops something went wrong, please try again"
+  },
+  "qrRecognisedFailed": {
+    "title": "QR code not recognised",
+    "message": "We can't recognise the QR code that you have tried to scan. Try again, or report this issue to your service provider.",
+    "tryAgain": "Try Again"
+  },
+  "landing": {
+    "title": "Let’s get started!",
+    "subtitle": "Take ownership of your identity and securely connect, transact and interact on CENNZnet.",
+    "importAccount": "Import Account",
+    "createAccount": "Create Account"
+  },
+  "generateSecretPhrase": {
+    "title": "This is your seed phrase",
+    "subtitle": "Store your phrase in a safe place and don’t share it with anyone, you will need it to restore your account.",
+    "checkBox": "I’ve written down my secret phrase"
+  },
+  "home": {
+    "description": "Authorise a CENNZnet transaction by scanning a QR with the scanner below."
+  },
+  "navigator": {
+    "home": "Home",
+    "qrscanner": "QR Scanner",
+    "profile": "Profile"
+  },
+  "profile": {
+    "title": "Profile",
+    "publicKey": "Public Key",
+    "seedPhrase": "Seed phrase",
+    "logout": "Logout"
+  },
+  "logout": {
+    "text": "Are you sure you want to logout?",
+    "logoutBtn": "logout"
+  }
+}
